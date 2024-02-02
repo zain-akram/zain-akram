@@ -2,10 +2,6 @@
 
 Zain Akram is a **Software Architect**, from Lahore, Pakistan 🇵🇰 working at **[Devsinc](https://devsinc.com)**.
 
-## Author
-
-Author of Flutter Package: **[Flutter to Airplay](https://pub.dev/packages/flutter_to_airplay)**
-
 [![Linkedin: Zain](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zainakramdev/)](https://www.linkedin.com/in/zainakramdev/)
 [![GitHub Zain](https://img.shields.io/github/followers/zain-akram?label=Followers&style=social)](https://github.com/zain-akram)
 
